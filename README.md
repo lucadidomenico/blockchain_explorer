@@ -1,6 +1,6 @@
 ## CDK Architecture
 
-![Architecure](https://github.com/lucadidomenico/blockchain_explorer/assets/56132403/677fa5a4-3b6f-4897-b749-761bd7326293)
+![Architecure](./architecture.png)
 
 ## READ API
 
