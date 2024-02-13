@@ -15,8 +15,8 @@ You can find the frontend at: [https://github.com/lucadidomenico/blockchain_expl
 Run the following commands to install the project:
 
 ```bash
-git clone https://github.com/lucadidomenico/blockchain_explorer
-cd ./blockchain_explorer
+git clone https://github.com/lucadidomenico/blockchain_explorer_backend
+cd ./blockchain_explorer_backend
 npm install
 ```
 
